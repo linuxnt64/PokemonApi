@@ -1,0 +1,8 @@
+ npm install @mui/material @emotion/react @emotion/styled --save
+ npm install --save --save-exact  react react-dom react-scripts cra-template
+ npm i react-router-dom --save
+ npm i @material-ui/utils
+ npm i @material-ui/styles
+npm i @material-ui/core --save
+npm i @material-ui/core/Grid --save
+ npx create-react-app pokemon-api && cd  pokemon-api && npm install node-sass --save

@@ -1,0 +1,500 @@
+   28  code ../express-jwt/
+   29  ls public/
+   30  npm run dev
+   31  vi .gitignore
+   32  git add .
+   33  git init
+   34  git add .
+   35  git status
+   36  git commit -m "First entry, backend OK, frontend gets you to batcave if already in db ;)"
+   37  git origin main
+   38  git switch main
+   39  git status
+   40  git branch main
+   41  git remote add origin https://github.com/linuxnt64/auth-jws-user.git
+   42  git remote -v
+   43  git push origin main
+   44  git fetch
+   45  git push origin main
+   46  git status
+   47  git branch main
+   48  git switch main
+   49  git push origin main
+   50  git pull ?
+   51  git pull main
+   52  git pull
+   53  git pull main
+   54  git pull auth-jwt-user main
+   55  git pull linuxnt64/auth-jws-user main
+   56  git status
+   57  git add .
+   58  git commit -m "First entry, backend OK, frontend gets you to batcave if already in db ;)"
+   59  git push origin main
+   60  git push --help
+   61  git pull main
+   62  git branch
+   63  git push --help
+   64  git push --force origin main
+   65  git remote -v
+   66  history
+   67  npm run dev
+   68  vi .gitignore 
+   69  vi .gitignore 
+   70  git add .gitignore
+   71  git add .env
+   72  git commit -m "Det ser ut som att .env måste med för att kunna köra från HEROKU"
+   73  git push 
+   74  git push origin main
+   75  cd javascript-kursen-nya-mappen/
+   76  npm google-map
+   77  npm 
+   78  npm  search --help
+   79  npm  search google
+   80  clear
+   81  npm  search google
+   82  clear && npm  search google
+   83  cd javascript-kursen-nya-mappen/
+   84  cd react/
+   85  ls
+   86  cd seasons/
+   87  code .
+   88  history
+   89  npm start
+   90  npm install react-google-maps
+   91  npm uninstall react-google-maps
+   92  npm install @react-google-maps
+   93  npm install @react-google-maps/api
+   94  npm start
+   95  npm uninstall @react-google-maps/api
+   96  npm install google-maps-react@2.0.6
+   97  ls src
+   98  npm start
+   99  history
+  100  npm start
+  101  latex
+  102  npm start
+  103  history
+  104  npm start
+  105  code .
+  106  npm start
+  107  cd ..
+  108  cd ..
+  109  ls
+  110  cd auth-jwt-user
+  111  code .
+  112  npm run dev
+  113  history
+  114  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  115  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  116  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  117  grep -r "users.findOne" .
+  118  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  119  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  120  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  121  git add . && git commit -m "försöker få igång heroku" && git push origin main
+  122  cd ..
+  123  ls
+  124  cd express-mongoose/
+  125  code .
+  126  cd ..
+  127  ls
+  128  cd auth-jwt-user
+  129  ls
+  130  git add . && git commit -m "försöker få igång heroku & göra färdigt batcave" && git push origin main
+  131  npm run dev
+  132  clear
+  133  mkdir rewound
+  134  cd rewound/
+  135  cd ..
+  136  rmdir rewound/
+  137  npm run dev
+  138  git add . && git commit -m "Försök med register på Heroku"  && git push origin main
+  139  ping auth-jwt-user.herokuapp.com
+  140  npm run dev
+  141  cd ,,
+  142  cd ..
+  143  npx create-react-app mapbox
+  144  cd mapbox/
+  145  mkdir instructions
+  146  cd instructions
+  147  cd ..
+  148  yarn add mapbox-gl
+  149  npm install yarn
+  150  yarn add mapbox-gl
+  151  C:\Users\staff\javascript-kursen-nya-mappen\mapbox\node_modules\yarn
+  152  ..\node_modules\yarn
+  153  ../node_modules/yarn
+  154  ls ../node_modules/yarn
+  155  ls ../node_modules
+  156  ls ./node_modules
+  157  ls ./node_modules/yarn
+  158  ls ./node_modules/yarn/bin
+  159  ls ./node_modules/yarn/bin/yarn add mapbox-gl
+  160  ./node_modules/yarn/bin/yarn add mapbox-gl
+  161  history | grep "npx"
+  162  #npx create-react-app
+  163  cd ../auth-jwt-user
+  164  ls
+  165  code .
+  166  history | grep "yarn"
+  167  npm run dev
+  168  cd ../react
+  169  mkdir component && cd $_
+  170  cd ..
+  171  rmdir component
+  172  npx create-react-app component
+  173  cd component/
+  174  code .
+  175  npm start
+  176  npm i faker --save
+  177  npm start
+  178  rs
+  179  cd ..
+  180  history | grep "npx"
+  181  npx create-react-app
+  182  npx create-react-app my-1st-component
+  183  npx create-react-app my-first-component
+  184  npm i -g create-react-app
+  185  npx create-react-app my-first-component
+  186  ls
+  187  cp -r component/* my-component
+  188  cp -r component/* my-component/
+  189  mkdir mycomponent
+  190  cp -r component/* mycomponent
+  191  cd mycomponent/
+  192  ls
+  193  ln ../component/node_modules/ node-modules
+  194  ln -s ../component/node_modules/ node-modules
+  195  cd node-modules/
+  196  ls
+  197  touch testfile
+  198  ls t*
+  199  cd ../../component/node_modules/
+  200  ls
+  201  ls test*
+  202  ls testfile
+  203  cd ../../mycomponent/
+  204  code .
+  205  npm run dev
+  206  npm start
+  207  ls
+  208  vi package.json
+  209  ls -al
+  210  ls ../component/ -al
+  211  cd node-modules/
+  212  ls a*
+  213  cd ..
+  214  rm -rf node-modules/
+  215  ls
+  216  npx --help
+  217  cd javascript-kursen-nya-mappen/react/todo/
+  218  ls
+  219  code .
+  220  npm i axios
+  221  code .
+  222  npm i axios
+  223  ls
+  224  npm i axios
+  225  code .
+  226  npm run dev
+  227  cd ..
+  228  cd react
+  229  npx create-react-app CardComponent
+  230  npx create-react-app card-component
+  231  ls
+  232  cd card-component/
+  233  code .  && npm start
+  234  npm i faker --save
+  235  npm start
+  236  npm i pokedex
+  237  npm start
+  238  rs
+  239  cd node_modules/
+  240  ls faker/
+  241  cd faker
+  242  less Readme.md 
+  243  cd ../..
+  244  npm start
+  245  cd ..
+  246  npm install semantic-ui-react semantic-ui-css
+  247  ls
+  248  ls -al
+  249  npm uninstall semantic-ui-react semantic-ui-css
+  250  la
+  251  ls
+  252  cd card-component/
+  253  ls
+  254  ls documentation/
+  255  npm start
+  256  cd ..
+  257  mkdir nosework
+  258  cd nosework/
+  259  cd ..
+  260  rmdir nosework/
+  261  npx create-react-app nosework
+  262   npm install semantic-ui-react semantic-ui-css
+  263  code . && npm start
+  264  ls
+  265   npm uninstall semantic-ui-react semantic-ui-css
+  266  cd nosework/
+  267   npm install semantic-ui-react semantic-ui-css
+  268  code . && npm start
+  269  code . && npm start
+  270  npm start
+  271  cd ..
+  272  npx create-react-app todo
+  273  npm start
+  274  npm start
+  275  cd todo/
+  276  npm start
+  277  rs
+  278  rs
+  279  npm start
+  280  npm start
+  281  git add .
+  282  git commit -m "Init  - as Max entered it ... kind of"
+  283  ls
+  284  git --help | less
+  285  git status
+  286  rm *.png
+  287  git status
+  288  git add .
+  289  git status
+  290  git commit -m "Init  - as Max entered it ... kind of"
+  291  git push --help
+  292  history | grep 'git push'
+  293  git push origin main
+  294  git branch main
+  295  git push origin main
+  296  git switch main
+  297  git push origin main
+  298  git push
+  299  git pull
+  300  git pull main
+  301  git pull todo
+  302  git pull linuxnt64/todo
+  303  git push origin main
+  304  git remote -v
+  305  git remote todo
+  306  git remote -t main --add todo
+  307  git remote add todo
+  308  git remote add -f todo
+  309  git remote add -f linuxnt64/todo
+  310  git remote add 
+  311  git remote
+  312  git remote add https://github.com/linuxnt64/todo
+  313  git remote add origin main https://github.com/linuxnt64/todo
+  314  git remote add origin https://github.com/linuxnt64/todo
+  315  git remote add
+  316  git remote 
+  317  git remote main
+  318  git -v
+  319  git remote -v
+  320  git push origin main
+  321  git pull
+  322  git pull main
+  323  git pull todo
+  324  git status
+  325  git add .
+  326  git push origin main
+  327  git pull origin main
+  328  git push origin main
+  329  git push origin main
+  330  git pull
+  331  git pull origin main
+  332  git push origin main
+  333  git merge "qerty"
+  334  git log
+  335  ls
+  336  ls -al
+  337  rm -rf .git*
+  338  ls -al
+  339  rm README.md
+  340  ls
+  341  git init
+  342  git add .
+  343  vi .gitignore
+  344  ls -al
+  345  echo node_modules > .gitignore
+  346  ls -al
+  347  less .gitignore 
+  348  vi .giti
+  349  vi .gitignore 
+  350  git add .
+  351  git commit -m "init"
+  352  git remote 
+  353  git remote add origin https://github.com/linuxnt64/todo/tree/main
+  354  git switch main
+  355  git switch origin main
+  356  git branch main
+  357  git branch
+  358  git checkout main
+  359  git branch
+  360  git status
+  361  git push
+  362  git push origin main
+  363  git remote add origin https://github.com/linuxnt64/todo
+  364  git remote set-url origin https://github.com/linuxnt64/todo
+  365  git push origin main
+  366  git fetch origin main
+  367  ls -al
+  368  git push origin main
+  369  git log
+  370  git pull origin main
+  371  git pull origin master
+  372  git merge
+  373  git remote
+  374  git checkout master
+  375  git push origin master
+  376  git merge 
+  377  history | grep "tar"
+  378  tar -zcvf archive --exclude="./node_modules/*" . ./
+  379  ls
+  380  mv archive ../todo-kopia
+  381  ls
+  382  git checkout main
+  383  git merge master
+  384  git pull master
+  385  git pull 
+  386  git pull todo master
+  387  git rebase master
+  388  git checkout master
+  389  git commit -m "minor!"
+  390  git add .
+  391  git push
+  392  history
+  393  git push origin master
+  394  git add .
+  395  git commit -m "minorgit add ."
+  396  git push origin master
+  397  git status
+  398  git switch 
+  399  git switch main
+  400  git status
+  401  git fetch origin master
+  402  git merge origin/master
+  403  git status
+  404  git add .
+  405  git push origin master:main
+  406  git remote -v
+  407  git pull origin master
+  408  git push origin main
+  409  git pull origin main
+  410  git merge origin/master
+  411  git merge origin master
+  412  git merge  master
+  413  git push origin main
+  414  git log
+  415  git merge origin master
+  416  git merge origin/main
+  417  git switch master
+  418  git merge origin/main
+  419  git merge  main
+  420  git push origin main --force
+  421  git switch main
+  422  npm start
+  423  npm start
+  424  cd ..
+  425  npx create-react-app brewtimer
+  426  cd brewtimer
+  427  ls ../todo
+  428  ls -al ../todo
+  429  code ../todo
+  430  code . && npm start
+  431  code ../todo
+  432  npm start
+  433  git remote add origin https://github.com/linuxnt64/brewtimer.git
+  434  git branch -M main
+  435  git commit -m "first commit, just a react template"
+  436  git add .
+  437  git commit -m "first commit, just a react template"
+  438  git push -u origin main
+  439  npm start
+  440  npm start
+  441  npm start
+  442  npm start
+  443  npm start
+  444  npm start
+  445  npm start
+  446  npm start
+  447  git add .
+  448  git commit -m "Kims fungerande timer"
+  449  git push origin main
+  450  git push origin main
+  451  npm start
+  452  cd ..
+  453  npx create-react-app youtube-class
+  454  cd youtube-class/
+  455  code .
+  456  cd ..
+  457  npx create-react-app youtube-class
+  458  npm start
+  459  cd javascript-kursen-nya-mappen/react/sr-nyheter/
+  460  ls
+  461  code . && npm start
+  462  nice
+  463  npm start
+  464  clear
+  465  grep "img" ../..
+  466  grep "img" ../../*
+  467  grep -r "img" ../../*
+  468  grep -r "img" ../../* | grep size
+  469  grep -r "img" ../../* | grep "size"
+  470  grep -r "img" ../../* | grep "px"
+  471  grep -r "img src=" ../../* | grep "px"
+  472  npm start
+  473  npm start
+  474  code .
+  475  npm start
+  476  code .
+  477  npm i axios
+  478  npx create-react-app youtube-searcher
+  479  npm start
+  480  npm start
+  481  npm start
+  482  npm uninstall axios
+  483  cd youtube-searcher/
+  484  npm i axios
+  485  npm i axios
+  486  npm start
+  487  cd ..
+  488  npx create-react-app my-pricerunner && cd  my-pricerunner  && npm i axios
+  489  cd ..
+  490  npm i --save react-router-dom
+  491  code .
+  492  cd ..
+  493  history | grep poke
+  494  history | grep poke*
+  495  history | grep "poke*"
+  496  rm pokemon
+  497  rmdir pokemon
+  498  rm -r pokemon
+  499  rm -r pokemon
+  500  npm i react-router-dom
+  501  cd ..
+  502  cd router2
+  503  ls
+  504  ls
+  505  whereis npx
+  506  find / -name npx -print
+  507  ls
+  508  code .
+  509  npm i react-router-dom --save
+  510  npm start
+  511  npm start
+  512  #######################
+  513  cd ..
+  514  ls
+  515  cd pokemon-api/
+  516  npm start
+  517  cd ..
+  518  cd router2
+  519  npm start
+  520  cd ../pokemon-api/
+  521  code .
+  522  npm start
+  523  npm start
+  524  npm start
+  525  npm start
+  526  history
+  527  history > docs/history1text
