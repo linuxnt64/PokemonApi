@@ -1,8 +1,17 @@
+
  npm install @mui/material @emotion/react @emotion/styled --save
  npm install --save --save-exact  react react-dom react-scripts cra-template
  npm i react-router-dom --save
  npm i @material-ui/utils
  npm i @material-ui/styles
-npm i @material-ui/core --save
-npm i @material-ui/core/Grid --save
+ npm i @material-ui/core --save
+ npm i @material-ui/core/Grid --save
  npx create-react-app pokemon-api && cd  pokemon-api && npm install node-sass --save
+
+
+all above is harvested from GitBash history. This means its what i did, not necessary whats right - OK?
+also - its reverse order in time :o/
+
+My belief right now, is that you will probably not need @material-ui/utils , styles and core
+but, on other hand, look into the js files and decide whats needs from the 'import' lines.
+
