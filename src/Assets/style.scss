@@ -9,17 +9,19 @@ $h5: 0.83em;
 $h6: 0.67em;
 
 .gridContainer {
-  width: 80%;
+  width: 50%;
   display: grid;
   margin: 20px auto;
   //grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: 20px;
+  border-radius: 10px;
 }
 
 .pokeType {
   width: 250px;
   height: 250px;
-  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.10%);
+  background-color:rgb(40, 111, 170);
+  box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.30%);
   border-radius: 10px;
   align-items: center;
   margin: 0 auto;
@@ -36,14 +38,14 @@ $h6: 0.67em;
   }
 
   .pokeImage:hover {
-    transform: rotate(360deg);
+    transform: rotate(180deg);
   }
 
   .pokeName {
     font-family: $font;
     text-transform: capitalize;
     font-weight: bold;
-    color: white;
+    color: rgb(107, 15, 15);
     font-size: 1.5rem;
     margin: 1rem;
   }
@@ -53,21 +55,21 @@ $h6: 0.67em;
     font-weight: bold;
     font-size: 1.5rem;
     margin: 1rem;
-    color: rgba(255, 255, 255, 0.3);
+    color: rgba(12, 19, 80, 0.3);
     text-align: right;
   }
 
   .pokeTypes {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.4);
     border-radius: 10px;
     position: relative;
-    top: 8rem;
+    top: 6rem;
     height: 4rem;
 
     .pokeSkill {
       font-family: $font;
       text-transform: capitalize;
-      color: white;
+      color: rgb(59, 43, 131);
       font-weight: bold;
       font-size: 0.8rem;
       padding: 8px;
@@ -106,7 +108,7 @@ $h6: 0.67em;
       h3 {
         display: inline-block;
         font-size: 14px;
-        color: white;
+        color: rgb(135, 209, 160);
         background-color: rgba(255, 255, 255, 0.3);
         padding: 10px;
         border-radius: 50px;
