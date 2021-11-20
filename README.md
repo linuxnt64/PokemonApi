@@ -1,3 +1,7 @@
+# This project used template from Tesa Muliawati "Pokemon API using React JS" found at https://tesamuliawati.medium.com/pokemon-api-using-react-js-fca5101c2b37
+
+#Here's Tesa's comments:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
